@@ -1,0 +1,241 @@
+﻿@using Project_QLCHDC.Models;
+@{
+    ViewBag.Title = "Index";
+    string noti = ViewBag.dangKyThanhCong;
+    List<DANHMUC> listCate = ViewBag.categories as List<DANHMUC>;
+    Layout = "~/Views/Shared/_LayoutWeb.cshtml";
+    List<string> listTrend = ViewBag.trend as List<string>;
+    List<SANPHAM> thich = ViewBag.thich as List<SANPHAM>;
+}
+@model List<SANPHAM>
+@if(Session["tb"] != null)
+{
+    <script type="text/javascript" charset="utf-8">
+            window.onload = function () {
+                alert("@Session["tb"].ToString()");
+            };
+    </script>
+    Session.Remove("tb");
+}
+@if(Session["hd"] != null) {
+    <script type="text/javascript" charset="utf-8">
+        function CustomAlert() {
+            this.alert = function (message) {
+                document.body.innerHTML = document.body.innerHTML + '<div id="dialogoverlay"></div><div id="dialogbox" class="slit-in-vertical"><div><div id="dialogboxbody"></div><div id="dialogboxfoot"></div></div></div>';
+                let dialogoverlay = document.getElementById('dialogoverlay');
+                let dialogbox = document.getElementById('dialogbox');
+                let winH = window.innerHeight;
+                dialogoverlay.style.height = winH + "px";
+                dialogbox.style.top = "50px";
+                dialogoverlay.style.display = "block";
+                dialogbox.style.display = "block";
+                document.getElementById('dialogboxbody').innerHTML = message;
+                document.getElementById('dialogboxfoot').innerHTML = '<button class="pure-material-button-contained active" onclick="customAlert.ok()">OK</button>';
+            }
+            this.ok = function () {
+                document.getElementById('dialogbox').style.display = "none";
+                document.getElementById('dialogoverlay').style.display = "none";
+            }
+        }
+            let customAlert = new CustomAlert();
+            window.onload = customAlert.alert('@Session["hd"].ToString()');
+    </script>
+    Session.Remove("hd");
+}
+<!-- Categories Section Begin -->
+<section class="categories">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    @foreach (DANHMUC l in listCate)
+                    {
+                        <div class="col-lg-4 col-md-4 col-sm-4 p-0">
+                            <div class="categories__item set-bg" data-setbg="/Content/img/categories/@l.HINH">
+                                <div class="categories__text">
+                                    <h4>@l.TENDM</h4>
+                                    <a href="@Url.Action("Category", "Product", new { madm = l.MADM })">Shop now</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Categories Section End -->
+<!-- Product Section Begin -->
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3">
+                <div class="section-title">
+                    <h4>SẢN PHẨM MỚI</h4>
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-9">
+                <ul class="filter__controls">
+                    <li class="active" data-filter="*">All</li>
+                    @foreach (DANHMUC l in listCate)
+                    {
+                        <li data-filter=".@l.MADM"><a>@l.TENDM</a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <!--NEW PRODUCT-->
+        <div class="row property__gallery">
+            @foreach (SANPHAM s in Model)
+            {
+                    <div class="col-lg-3 col-md-4 col-sm-6 mix @s.MADM">
+                        <div class="product__item">
+                                <div class="product__item__pic set-bg" data-setbg="/Content/img/products/@s.HINHANH">
+                                    <div class="label new">New</div>
+                                    <ul class="product__hover">
+                                        <li><a href="/Content/img/products/@s.HINHANH" class="image-popup"><span class="arrow_expand"></span></a></li>
+                                        @if (Session["kh"] != null && thich.Any(t => t.MASP == s.MASP)) {
+                                            <li><a href="@Url.Action("AddLoveProduct", "Product", new { masp = s.MASP})" style="background:red;"><span class=" icon_heart_alt" style="color:#fff;"></span></a></li>
+                                        }
+                                        else {
+                                            <li><a href="@Url.Action("AddLoveProduct", "Product", new { masp = s.MASP})"><span class="icon_heart_alt"></span></a></li>
+                                        }
+                                        <li><a href="@Url.Action("ProductDetail", "Product", new { masp = s.MASP})"><span class="icon_bag_alt"></span></a></li>
+                                    </ul>
+                                </div>
+                                <div class="product__item__text">
+                                    <h6><a href="@Url.Action("ProductDetail", "Product", new { masp = s.MASP })">@s.TENSP</a></h6>
+                                    <div class="rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <div style="margin-bottom:10px;">
+                                        @if (s.SOLUONGTON == 0) {
+                                            <small style="color:red;">Hết Hàng</small>
+                                        }else{
+                                            <small>Còn : @s.SOLUONGTON</small>
+                                        }
+                                    </div>
+                                        <div class="product__price">@string.Format("{0:#,##0} VND", s.GIABAN)</div>
+                                </div>
+                        </div>
+                    </div>
+            }
+            </div>
+            <!--END NEW PRODUCT-->
+        </div>
+</section>
+<!-- Product Section End -->
+<!-- Banner Section Begin -->
+<section class="banner set-bg" data-setbg="/Content/img/banner/BANNER.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-7 col-lg-8 m-auto">
+                <div class="banner__slider owl-carousel">
+                    <div class="banner__item">
+                        <div class="banner__text">
+                            <span>Mẫu mã sang trọng, đẳng cấp</span>
+                            <h1>Barconic</h1>
+                            <a href="@Url.Action("Category", "Product")">Shop now</a>
+                        </div>
+                    </div>
+                    <div class="banner__item">
+                        <div class="banner__text">
+                            <span>An toàn, tiện lơi</span>
+                            <h1>Texan</h1>
+                            <a href="@Url.Action("Category", "Product")">Shop now</a>
+                        </div>
+                    </div>
+                    <div class="banner__item">
+                        <div class="banner__text">
+                            <span>Bền đẹp với thời gian</span>
+                            <h1>Alpine</h1>
+                            <a href="@Url.Action("Category", "Product")">Shop now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Banner Section End -->
+<!-- Trend Section Begin -->
+<section class="trend spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="trend__content">
+                    <div class="section-title">
+                        <h4>HOT TREND</h4>
+                    </div>
+                    @if (listTrend != null)
+                    {
+                        foreach (string s in listTrend)
+                        {
+                            DataClasses1DataContext db = new DataClasses1DataContext();
+                            SANPHAM sp = db.SANPHAMs.Where(ss => ss.MASP == s).Single();
+                            <div class="trend__item">
+                                
+                                <div class="trend__item__pic">
+                                    <img style="width:100px;height:100px;" src="/Content/img/products/@sp.HINHANH" alt="">
+                                </div>
+                                <div class="trend__item__text">
+                                    <h6>@sp.TENSP</h6>
+                                    <div class="rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <div class="product__price">@string.Format("{0:#,##0} VND", sp.GIABAN)</div>
+                                </div>
+                            </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Trend Section End -->
+<!-- Services Section Begin -->
+<section class="services spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="services__item">
+                    <i class="fa fa-car"></i>
+                    <h6>Miễn phí giao hàng</h6>
+                    <p>Trên 500.000đ</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="services__item">
+                    <i class="fa fa-money"></i>
+                    <h6>Hoàn tiền</h6>
+                    <p>Nếu có vấn đề</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="services__item">
+                    <i class="fa fa-support"></i>
+                    <h6>Hỗ trợ</h6>
+                    <p>Đội ngũ hỗ trợ 24/7</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="services__item">
+                    <i class="fa fa-headphones"></i>
+                    <h6>Thanh toán</h6>
+                    <p>100% bảo mật và an toàn</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Services Section End -->
+

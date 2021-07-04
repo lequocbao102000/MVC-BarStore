@@ -1,0 +1,435 @@
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll.config
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.pdb
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.AppContext.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Console.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Compression.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.AccessControl.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Claims.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.ValueTuple.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\WebGrease.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.pdb
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CoreCompileInputs.cache
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CopyComplete
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.dll
+D:\IT\Tronnie\Software Development\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.pdb
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll.config
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.pdb
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.AppContext.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Console.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Compression.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.AccessControl.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Claims.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.ValueTuple.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.rsp
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Owin.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\WebGrease.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.pdb
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csprojAssemblyReference.cache
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CoreCompileInputs.cache
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CopyComplete
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.dll
+D:\IT\Tronnie\Software Development\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.pdb
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll.config
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Project_QLCHDC.pdb
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.exe.config
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csc.rsp
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.exe.config
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\csi.rsp
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.AppContext.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Console.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Compression.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.AccessControl.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Claims.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.ValueTuple.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.exe.config
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\vbc.rsp
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Web.Infrastructure.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Owin.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\WebGrease.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\PagedList.Mvc.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Helpers.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Mvc.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Optimization.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.Razor.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Newtonsoft.Json.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Antlr3.Runtime.pdb
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csprojAssemblyReference.cache
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CoreCompileInputs.cache
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CopyComplete
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.dll
+D:\Works\HK5\PTUD\Project_QLDC1\Project_QLDC\Project_QLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.pdb
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Project_QLCHDC.dll.config
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Project_QLCHDC.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Project_QLCHDC.pdb
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csc.exe
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csc.exe.config
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csc.rsp
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csi.exe
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csi.exe.config
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\csi.rsp
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.AppContext.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Collections.Immutable.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Console.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.IO.Compression.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.IO.Pipes.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.AccessControl.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Claims.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.ValueTuple.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\vbc.exe
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\vbc.exe.config
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\vbc.rsp
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\roslyn\VBCSCompiler.exe.config
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Antlr3.Runtime.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\EntityFramework.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Web.Infrastructure.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Newtonsoft.Json.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Owin.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\PagedList.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\PagedList.Mvc.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Helpers.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Mvc.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Optimization.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Razor.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\WebGrease.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\PagedList.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\PagedList.Mvc.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Helpers.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Mvc.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Optimization.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.Razor.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.Deployment.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\System.Web.WebPages.Razor.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Newtonsoft.Json.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Antlr3.Runtime.pdb
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\EntityFramework.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\EntityFramework.SqlServer.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Google.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csprojAssemblyReference.cache
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CoreCompileInputs.cache
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.csproj.CopyComplete
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.dll
+D:\Works\HK5\PTUD\DoAn\WebQLDC\Project_QLCHDC\obj\Debug\Project_QLCHDC.pdb

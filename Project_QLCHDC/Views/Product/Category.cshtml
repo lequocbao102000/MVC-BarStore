@@ -1,0 +1,143 @@
+﻿@using Project_QLCHDC.Models;
+@using PagedList.Mvc;
+@using PagedList;
+@{
+    ViewBag.Title = "Category";
+    Layout = "~/Views/Shared/_LayoutWeb.cshtml";
+    List<SANPHAM> thich = ViewBag.thich as List<SANPHAM>;
+    List<DANHMUC> ll = ViewBag.loai as List<DANHMUC>;
+    List<string> lkt = ViewBag.kt as List<string>;
+}
+@model IPagedList<Project_QLCHDC.Models.SANPHAM>
+<!-- Breadcrumb Begin -->
+<div class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb__links">
+                    <a href="@Url.Action("Index", "KhachHang")"><i class="fa fa-home"></i> Home</a>
+                    @if (Request.QueryString["sale"] == "true") {
+                        <a href="@Url.Action("Category", "Product")">Shop</a>
+                        <span>Top Sale</span>
+                    }
+                    @if (Request.QueryString["searchBy"] != null) {
+                        <a href="@Url.Action("Category", "Product")">Shop</a>
+                        <span>@Request.QueryString["searchBy"]</span>
+                    }
+                    @if (Request.QueryString["madm"] == null && Request.QueryString["math"] == null && Request.QueryString["searchBy"] == null && Request.QueryString["sale"] == null) {
+                        <span>Shop</span>
+                    }
+                    @if (Request.QueryString["madm"] != null && Request.QueryString["math"] != null) {
+                        <a href="@Url.Action("Category", "Product")">Shop</a>
+                        <a href="@Url.Action("Category", "Product", new { madm = Request.QueryString["madm"]})">@{
+                        string ten = "";
+                        foreach(DANHMUC l in ll){
+                                if (l.MADM == Request.QueryString["madm"]) {
+                                    ten = l.TENDM;
+                                }
+                            }} @ten
+                    </a>
+                    
+                    }
+                    @if(Request.QueryString["madm"] != null){
+                        <a href="@Url.Action("Category", "Product")">Shop</a>
+                        <span>@{
+                        string ten = "";
+                        foreach(DANHMUC l in ll){
+                                if (l.MADM == Request.QueryString["madm"]) {
+                                    ten = l.TENDM;
+                                }
+                            }} @ten
+                    </span>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<!-- Shop Section Begin -->
+<section class="shop spad">
+    <div class="container">
+        <div class="row">
+            <!--SORT-->
+            <div class="col-lg-3 col-md-3">
+                <div class="shop__sidebar">
+                    <div class="sidebar__categories">
+                        <div class="section-title">
+                            <h4>THEO LOẠI</h4>
+                        </div>
+                        <div class="categories__accordion">
+                            <div class="accordion" id="accordionExample">
+                            @{int num = 1;
+                            foreach (DANHMUC l in ll) {
+                                
+                                string id = "collapse" + num;
+                                <div class="card">
+                                    <div class="card-heading active">
+                                        <a href="@Url.Action("Category", "Product", new { madm = l.MADM.Trim()})">@l.TENDM</a>
+                                    </div>
+                                </div>
+                                num++;
+                            }
+                            }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--END SORT-->
+            <div class="col-lg-9 col-md-9">
+                <div class="row">
+                    @foreach (SANPHAM s in Model)
+                    {
+                        <div class="col-lg-4 col-md-6">
+                            <div class="product__item">
+                                <div class="product__item__pic set-bg" data-setbg="/Content/img/products/@s.HINHANH">
+                                    
+                                    <ul class="product__hover">
+                                        <li><a href="/Content/img/products/@s.HINHANH" class="image-popup"><span class="arrow_expand"></span></a></li>
+                                        @if (Session["kh"] != null && thich.Any(t => t.MASP == s.MASP))
+                                        {
+                                            <li><a href="@Url.Action("AddLoveProduct", "Product", new { masp = s.MASP})" style="background:red;"><span class=" icon_heart_alt" style="color:#fff;"></span></a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a href="@Url.Action("AddLoveProduct", "Product", new { masp = s.MASP})"><span class="icon_heart_alt"></span></a></li>
+                                        }
+                                        <li><a href="@Url.Action("ProductDetail", "Product", new { masp = s.MASP})"><span class="icon_bag_alt"></span></a></li>
+                                    </ul>
+                                </div>
+                                <div class="product__item__text">
+                                    <h6><a href="@Url.Action("ProductDetail", "Product", new { masp = s.MASP})">@s.TENSP</a></h6>
+                                    <div class="rating">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </div>
+                                    <div style="margin-bottom:10px;">
+                                        @if (s.SOLUONGTON == 0)
+                                        {
+                                            <small style="color:red;">Hết Hàng</small>
+                                        }
+                                        else
+                                        {
+                                            <small>Còn : @s.SOLUONGTON</small>
+                                        }
+                                    </div>
+                                        <div class="product__price">@string.Format("{0:#,##0} VND", s.GIABAN)</div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    <div class="col-lg-12 text-center">
+                            @Html.PagedListPager(Model, page => Url.Action("Category", "Product", new { page, madm = Request.QueryString["madm"]}))
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Shop Section End -->
